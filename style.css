@@ -1118,7 +1118,7 @@ body{
         margin-left: 40px;
     }
     .image-background1{
-        background: url(/images/project1.png);
+        background: url(images/project1.png);
         width: 70vw;
         height: 60vh;
         background-position: center;
@@ -1130,7 +1130,7 @@ body{
         
     }
     .image-background2{
-        background: url(/images/project2.png);
+        background: url(images/project2.png);
         width: 70vw;
         height: 60vh;
         background-position: center;
@@ -1142,7 +1142,7 @@ body{
         display: none;
     }
     .image-background3{
-        background: url(/images/project3.png);
+        background: url(images/project3.png);
         width: 70vw;
         height: 60vh;
         background-position: center;
