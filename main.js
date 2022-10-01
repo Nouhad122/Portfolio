@@ -21,10 +21,7 @@ let imageProject2 = document.querySelector('.image-background2');
 let imageProject3 = document.querySelector('.image-background3');
 let contact = document.querySelector('#contact');
 let project = document.querySelector('#projects');
-let logo = document.querySelector('.logo');
-let portfolio = document.querySelector('.portfolio');
-let theme = document.querySelector('.theme');
-let nav = document.querySelector('nav');
+
 
 function myFunction(x){
   if(x.matches){
@@ -44,7 +41,7 @@ else{
 }
 }
 var x = window.matchMedia("(max-width: 599px)")
-myFunction(x) // Call listener function at run time
+myFunction(x) 
 x.addListener(myFunction)
 
 
@@ -105,7 +102,7 @@ if(x.matches){
   
   
   var x = window.matchMedia("(max-width: 599px)")
-  myFunction2(x) // Call listener function at run time
+  myFunction2(x) 
   x.addListener(myFunction2)
 
 
