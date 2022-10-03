@@ -70,6 +70,9 @@ body{
  .navbar.active{
     left: 0;
  }
+ #home{
+    color:#6B6E70;
+ }
  .navbar li a{
     text-decoration: none;
     color: #86C232;
