@@ -491,7 +491,7 @@ body{
     color: white;
 }
 .fa-github:hover{
-    color:#86C232
+    color:#86C232;
 }
 .fa-github.active:hover{
     color: #fda74ccc;
@@ -507,13 +507,13 @@ body{
 }
 
 #share:hover{
-    color:#86C232
+    color:#86C232;
 }
 #share2:hover{
-    color:#86C232
+    color:#86C232;
 }
 #share3:hover{
-    color:#86C232
+    color:#86C232;
 }
 .description{
     position: absolute;
